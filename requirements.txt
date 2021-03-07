@@ -1,2 +1,4 @@
+boto3==1.9.216
+ask-sdk-core==1.11.0
 selenium==3.141.0
 urllib3==1.26.3
